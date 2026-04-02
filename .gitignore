@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build output
+.wrangler/
+
+# Environment variables (敏感信息)
+.dev.vars
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
