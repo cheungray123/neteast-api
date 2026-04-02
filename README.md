@@ -28,7 +28,7 @@
 
 ### 一键部署
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/your-repo/ncm-api)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=[https://github.com/your-repo/ncm-api](https://github.com/cheungray123/neteast-api))
 
 ### 本地开发
 
